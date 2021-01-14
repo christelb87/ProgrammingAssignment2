@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-## This assignment is in partial fulfillment for the course Data Science: R programming
+## This assignment is in partial fulfillment for the course: Data Science: R programming
 ## Week 3 Assignment; GitHub user: christelb87
 
 ## Write a short comment describing this function
